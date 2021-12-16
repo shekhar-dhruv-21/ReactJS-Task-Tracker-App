@@ -1,7 +1,6 @@
 ## Sandbox Link : 
 ```
-https://codesandbox.io/s/reactjs-task-tracker-app-8pwxc?file=/src/App.js
-```
+https://codesandbox.io/s/react-task-tracker-lwfic
 ## Usage
 
 ### Install dependencies
